@@ -5,3 +5,21 @@
 <hr><center>nginx/1.24.0</center>
 </body>
 </html>
+Script started on Tue Sep 30 23:49:01 2025
+Command: -- docker container run -it ubuntu bash
+script: --: No such file or directory
+
+Command exit status: 1
+Script done on Tue Sep 30 23:49:01 2025
+Script started on Tue Sep 30 23:50:32 2025
+Node.js version v18.10.0 detected.
+The Angular CLI requires a minimum of v18.13.
+
+Please update your Node.js version or visit https://nodejs.org/ for additional instructions.
+[1m[7m%[27m[1m[0m                                                                                           ]2;poliveir@MacBook-Air-de-Pedro:~/Desktop/fullstackopen/fullstackopen-part12]1;..ckopen-part12[0m[27m[24m[J[01;32m➜  [36mfullstackopen-part12[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mscript-answers[39;49m[0m [1m[36mtodo-app[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                           ]2;poliveir@MacBook-Air-de-Pedro:~/Desktop/fullstackopen/fullstackopen-part12]1;..ckopen-part12[0m[27m[24m[J[01;32m➜  [36mfullstackopen-part12[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlsscript -a script-answers/exercise12_1.txt -- docker container run -it ubuntu bash[K[A[10Cdocker[2Cv[K[1B[K[A[46C[9Dscript[2Ca script-answers/exercise12_1.txt -- docker container run -it ubuntu bash[K[A[90C[P[9Cnt[P[25C [A[54C[P[10Cta[P[24C [A[54C[P[11Cai[P[23C [A[54C[P[12Cin[P[22C [A[54C[P[13Cne[P[21C [A[54C[P[14Cer[P[20C [A[54C[P[15Cr [P[19C [A[54C[P[16C r[P[18C [A[54C[P[17Cru[P[17C [A[54C[P[18Cun[P[16C [A[54C[P[19Cn [P[15C [A[54C[P[20C -[P[14C [A[54C[P[21C-i[P[13C [A[54C[P[22Cit[P[12C [A[54C[P[23Ct [P[11C [A[54C[P[24C u[P[10C [A[54C[P[25Cub[P[9C [A[54C[P[26Cbuntu bash [A[54C[P[27Cuntu bash [A[54C[P[28Cntu bash [A[54C[P[29Ctu bash [A[54C[P[30Cu bash [A[54C[P[31C bash [A[54C[P[32Cbash [A[54C[P[33Cash [A[54C[P[34Csh [A[54C[P[35Ch [K[A[54C[P[36C[K[1B[K[A[54C[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37D[P[36C [37Ds[P[36C [37D[P[36C [37D[?1l>[?2004l[1B]2;docker container run -it ubuntu bash]1;docker[?2004h]0;root@3b10da0b333a: /root@3b10da0b333a:/# mkdir /usr/src/app/ 
+[?2004l[?2004h]0;root@3b10da0b333a: /root@3b10da0b333a:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@3b10da0b333a: /root@3b10da0b333a:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                           ]2;poliveir@MacBook-Air-de-Pedro:~/Desktop/fullstackopen/fullstackopen-part12]1;..ckopen-part12[0m[27m[24m[J[01;32m➜  [36mfullstackopen-part12[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
